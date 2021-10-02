@@ -1,0 +1,17 @@
+{
+    "ss":"reportLive",
+    "_data_base": {
+        "puerto": 6433,
+        "pass": "postgres",
+        "ip": "181.115.236.174",
+        "bd_name": "equipo_medico_nv",
+        "user": "postgres"  
+    },
+    "data_base": {
+        "puerto": 5432,
+        "pass": "Yc1sM3dical",
+        "ip": "181.115.236.174",
+        "bd_name": "equipo_medico_nv",
+        "user": "postgres"  
+    }
+}

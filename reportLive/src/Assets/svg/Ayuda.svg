@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 43.1 43.1">
+  <defs>
+    <linearGradient id="linear-gradient" x1="19.45" y1="31.88" x2="23.66" y2="31.88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff5baf" />
+      <stop offset="0.22" stop-color="#ff60af" />
+      <stop offset="0.5" stop-color="#ff70b0" />
+      <stop offset="0.8" stop-color="#ff89b1" />
+      <stop offset="1" stop-color="#ff9eb2" />
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="21.56" x2="43.12" y2="21.56">
+      <stop offset="0" stop-color="#ff5baf" />
+      <stop offset="0.22" stop-color="#ff60af" />
+      <stop offset="0.5" stop-color="#ff70b0" />
+      <stop offset="0.8" stop-color="#ff89b1" />
+      <stop offset="1" stop-color="#ff9eb2" />
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="14.82" y1="19.66" x2="28.3" y2="19.66" >
+      <stop offset="0" stop-color="#ff5baf" />
+      <stop offset="0.22" stop-color="#ff60af" />
+      <stop offset="0.5" stop-color="#ff70b0" />
+      <stop offset="0.8" stop-color="#ff89b1" />
+      <stop offset="1" stop-color="#ff9eb2" />
+    </linearGradient>
+  </defs>
+  <title>Recurso 1</title>
+  <g id="Capa_2" data-name="Capa 2">
+    <g id="Layer_1" data-name="Layer 1">
+      <g>
+        <circle cx="21.6" cy="31.9" r="2.1" style="fill: url(#linear-gradient)" />
+        <path d="M21.6,0A21.6,21.6,0,1,0,43.1,21.6,21.5,21.5,0,0,0,21.6,0Zm0,41A19.5,19.5,0,1,1,41,21.6,19.4,19.4,0,0,1,21.6,41Z" style="fill: url(#linear-gradient-2)" />
+        <path d="M21.6,10.8a6.7,6.7,0,0,0-6.8,6.8,1.7,1.7,0,0,0,3.4,0,3.4,3.4,0,1,1,6.7,0,3.3,3.3,0,0,1-3.3,3.3,1.7,1.7,0,0,0-1.7,1.7v4.2a1.6,1.6,0,0,0,1.7,1.7,1.6,1.6,0,0,0,1.6-1.7V24.1a6.8,6.8,0,0,0,5.1-6.5A6.7,6.7,0,0,0,21.6,10.8Z" style="fill: url(#linear-gradient-3)" />
+      </g>
+    </g>
+  </g>
+</svg>

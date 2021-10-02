@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 143 143">
+	<defs>
+		<style>.cls-1{opacity:0.3;}.cls-2,.cls-4{fill:#fff;}.cls-2,.cls-3{stroke:#fff;stroke-miterlimit:10;}.cls-2{stroke-width:2.26px;}.cls-3{fill:#05c2ea;}</style>
+	</defs>
+	<title>close</title>
+	<g id="Capa_2" data-name="Capa 2">
+		<g id="Layer_1" data-name="Layer 1">
+			<circle class="cls-2" cx="71.15" cy="71.85" r="35" />
+			<circle class="cls-3" cx="71.15" cy="71.85" r="32.19" />
+			<g id="_8" data-name="8">
+				<path class="cls-4" d="M79.29,71.85l8.14-8.14a5.76,5.76,0,1,0-8.14-8.14l-8.14,8.14L63,55.57a5.76,5.76,0,0,0-8.15,8.14L63,71.85,54.86,80A5.76,5.76,0,1,0,63,88.13L71.15,80l8.14,8.14A5.76,5.76,0,1,0,87.43,80Z" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -58,6 +58,7 @@ class index extends Component {
             dataProps={{
                 defaultHeight:50
             }}
+            //limit={1000}
             onEdit={(obj) => {
                 // ComponentPadre.editar(obj);
             }}

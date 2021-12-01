@@ -23,6 +23,24 @@ public class Manejador {
             case "tipoServicio":
                 TipoServicio.onMessage(resp);
                 break;
+            case "equipoMedico":
+                EquipoMedico.onMessage(resp);
+                break;
+            case "producto":
+                Producto.onMessage(resp);
+                break;
+            case "equipoMedicoEmpresa":
+                EquipoMedicoEmpresa.onMessage(resp);
+                break;
+            case "oficina":
+                Oficina.onMessage(resp);
+                break;
+            case "tecnico":
+                Tecnico.onMessage(resp);
+                break;
+            case "producto_bs":
+                Producto_bs.onMessage(resp);
+                break;
         }
 
     }

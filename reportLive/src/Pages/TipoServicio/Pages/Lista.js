@@ -20,16 +20,16 @@ class index extends Component {
                 { key: "tipo", label: "Tipo", width: 300 },
                 { key: "descripcion", label: "Descripcion", width: 300 },
                 {
-                    key: "estado", label: "Estado", width: 70, render: (val) => {
-                        return <SView col="xs-12" center >
-                            <SView style={{
-                                width: 20,
-                                height: 20,
-                                borderRadius: 4,
-                                backgroundColor: (!val ? "#600" : "#060")
-                            }} />
-                        </SView>
-                    }
+                key: "estado", label: "Estado", width: 70, render: (val) => {
+                    return <SView col="xs-12" center >
+                        <SView style={{
+                            width: 20,
+                            height: 20,
+                            borderRadius: 4,
+                            backgroundColor: (!val ? "#600" : "#060")
+                        }} />
+                    </SView>
+                }
                 },
             ]}
             dataProps={{

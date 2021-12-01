@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { Text, View } from 'react-native'
 import { connect } from 'react-redux';
-// const URL = "https://fullparts.servisofts.com/api"
-const URL = "http://localhost:8080"
+const URL = "https://reportlife.icysmedical.com/api"
+//const URL = "http://localhost:8080"
 var INSTANCE = null;
 class SHttp extends Component {
     static PROP;

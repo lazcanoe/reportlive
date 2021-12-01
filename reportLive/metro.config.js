@@ -27,7 +27,7 @@ module.exports = (async () => {
       }),
     },
     watchFolders: [
-      path.resolve(__dirname, '../../Documents/GitHub/servisofts-component/dist'),
+      path.resolve(__dirname, 'C:\\ricky\\servisofts-component\\dist'),
     ],
     resolver: {
       assetExts: assetExts.filter(ext => ext !== "svg"),

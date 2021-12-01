@@ -1,0 +1,38 @@
+{
+    "ss": "servisofts.reportlife",
+    "socket_client": {
+        "servicio": {
+            "puerto": 10001,
+            "ip": "servicio.ss.lo",
+            "cert": {
+                "OU": "servicio",
+                "pem": "servicio.pem"
+            }
+        },
+        "reconectTime": 5000
+    },
+    "files": {
+        "url": "/u01/servisoftsFiles/reportlife/"
+    },
+    "data_base": {
+        "puerto": 5432,
+        "pass": "Yc1sM3dical",
+        "ip": "181.188.168.158",
+        "bd_name": "equipo_medico_nv",
+        "user": "postgres"
+    },
+    "nombre": "reportlife",
+    "ssl": {
+        "pass_jks": "Servisofts123.",
+        "cert": {
+            "ST": "Av Banzer",
+            "C": "BO",
+            "E": "eduardol47@gmail.com",
+            "OU": "reportlife",
+            "CN": "reportlife.icysmedical.com",
+            "L": "Santa Cruz",
+            "O": "Servisofts SRL"
+        },
+        "nombre_jks": "servisofts"
+    }
+}
